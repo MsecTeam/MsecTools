@@ -38,7 +38,7 @@ while True:
         print("whois ( whois )")
         print("nmap ( nmap )")
         print("docker Search ( dcsearch )")
-        print("docker pull ( dpull )")
+        print("docker pull ( dcpull )")
         print("docker run ( dcrun )")
         print("ML Empas ( mlem )")
         print("==================")
